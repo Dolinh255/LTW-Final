@@ -75,6 +75,7 @@ CORS_ALLOWED_ORIGINS = [
    'http://localhost:5500',
    'http://127.0.0.1:5500',
    'https://staff-management-amber.vercel.app',
+   'https://ltw-final-dguq.vercel.app',
 ]
 
 CORS_ALLOW_HEADERS = [
